@@ -5,8 +5,9 @@ Please search yours here before asking for support on discord :smile:
 * **Why would I buy the Premium version? The free is enough for me**\
 The free version gives you a taste before buying the plugin :smile: - Eventually you will have issues using it in production.\
 It is **significantly** limited: The job board has just 1 page(up to 28 jobs), and the plugin lacks many practical features.\
-The hardest concern is that due to technical difficulties(e.g. re-written configs), Migration to the premium version is impossible.\
-The premium, however, features an Unlimited Board, Discord Webhooks, Support up to the latest spigot version, Partial Job Completions, and way more ways to adapt the plugin to your server!
+\
+The premium, however, features an Unlimited Board, Discord Webhooks, Support up to the latest spigot version, Partial Job Completions, and way more ways to adapt the plugin to your server!\
+The hardest concern is that due to technical difficulties(e.g. re-written configs), Migration to the premium version is impossible.
 
 * **I lost money/items while creating a job!**\
 You did not lose anything! The reward was transferred back to you :smile:\
@@ -19,7 +20,7 @@ Simply say "cancel".
 EmployMe works with Vault - so all famous Economy plugins are supported. In fact, EmployMe auto-disables when Vault is not on the server.
 
 * **I bought the Premium version, How to get support?**\
-We offer quick support using in our [Discord](https://discord.gg/Tm4F2v7xVE), but you first need to add your discord username to your spigot profile - so we can verify your purchase.\
+We offer support on our [Discord](https://discord.gg/Tm4F2v7xVE), but you first need to add your discord username to your spigot profile - so we can verify your purchase.\
 Except for support, you also get the ability to vote on what future updates will include.\
 \
 Here is how to add your discord to spigot:\
